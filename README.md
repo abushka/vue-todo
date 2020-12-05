@@ -2,7 +2,7 @@
 
 ## DEMO
 
-See [DEMO](https://abushka.github.io/my-project/).
+See [DEMO](https://abushka.github.io/vue-todo/).
 
 # user
 
